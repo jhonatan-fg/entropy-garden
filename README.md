@@ -3,7 +3,7 @@
 <!-- OpenGraph Preview -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/entropy-garden/main/assets/og-preview.png" alt="entropy-garden preview" width="100%" />
+  <img src="https://raw.githubusercontent.com/jhonatan-fg/entropy-garden/main/assets/og-preview.png" alt="entropy-garden preview" width="100%" />
 </p>
 
 <!--
@@ -121,8 +121,8 @@ entropy-garden/
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=vision-friendly-dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonatan-fg&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-fg&layout=compact&theme=vision-friendly-dark&hide_border=true" height="150"/>
 </p>
 
 ---
@@ -130,7 +130,7 @@ entropy-garden/
 ## 🔥 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonatan-fg&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -188,14 +188,4 @@ status: growing █████░░░░░
 git clone https://github.com/your-username/entropy-garden.git
 cd entropy-garden
 ```
-
----
-
-## 🧩 TODO
-
-* [ ] add first notebooks
-* [ ] integrate local AI workflows
-* [ ] build reusable pipeline templates
-* [ ] document experiments
-
 ---

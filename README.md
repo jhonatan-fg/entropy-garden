@@ -110,27 +110,29 @@ entropy-garden/
 
 ## 🛠️ Stack
 
-![Python](https://img.shields.io/badge/python-000?style=flat-square\&logo=python)
-![Scala](https://img.shields.io/badge/scala-000?style=flat-square\&logo=scala)
-![Docker](https://img.shields.io/badge/docker-000?style=flat-square\&logo=docker)
-![Spark](https://img.shields.io/badge/apache_spark-000?style=flat-square\&logo=apachespark)
-![Jupyter](https://img.shields.io/badge/jupyter-000?style=flat-square\&logo=jupyter)
+![Python](https://img.shields.io/badge/python-0aff9d?style=flat-square\&logo=python\&logoColor=black)
+![Jupyter](https://img.shields.io/badge/jupyter-0aff9d?style=flat-square\&logo=jupyter\&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-bd00ff?style=flat-square\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-0aff9d?style=flat-square\&logo=pandas\&logoColor=black)
+![Matplotlib](https://img.shields.io/badge/matplotlib-bd00ff?style=flat-square\&logo=plotly\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-0aff9d?style=flat-square\&logo=scikitlearn\&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/tensorflow-bd00ff?style=flat-square\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/keras-0aff9d?style=flat-square\&logo=keras\&logoColor=black)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 System Metrics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonatan-fg&show_icons=true&theme=vision-friendly-dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonatan-fg&layout=compact&theme=vision-friendly-dark&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jhonatan-fg&show_icons=true&theme=radical&hide_border=true&title_color=0aff9d&icon_color=bd00ff&text_color=ffffff&bg_color=000000" height="150"/>
 </p>
 
 ---
 
-## 🔥 Activity Graph
+## 🔥 Activity Flow
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonatan-fg&theme=github-dark&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonatan-fg&bg_color=000000&color=0aff9d&line=bd00ff&point=ffffff&hide_border=true"/>
 </p>
 
 ---
@@ -180,12 +182,4 @@ status: growing █████░░░░░
 ░▒▓█▓▒░   end of transmission   ░▒▓█▓▒░
 ```
 
----
-
-## ⚙️ Setup (optional)
-
-```bash
-git clone https://github.com/your-username/entropy-garden.git
-cd entropy-garden
-```
 ---

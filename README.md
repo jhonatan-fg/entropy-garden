@@ -29,10 +29,10 @@ Tip: You can generate this image using tools like:
 
 ## 🧬 Status
 
-![Repo Size](https://img.shields.io/github/repo-size/your-username/entropy-garden?style=flat-square\&color=black)
-![Last Commit](https://img.shields.io/github/last-commit/your-username/entropy-garden?style=flat-square\&color=black)
-![Stars](https://img.shields.io/github/stars/your-username/entropy-garden?style=flat-square\&color=black)
-![Issues](https://img.shields.io/github/issues/your-username/entropy-garden?style=flat-square\&color=black)
+![Repo Size](https://img.shields.io/github/repo-size/jhonatan-fg/entropy-garden?style=flat-square\&color=black)
+![Last Commit](https://img.shields.io/github/last-commit/jhonatan-fg/entropy-garden?style=flat-square\&color=black)
+![Stars](https://img.shields.io/github/stars/jhonatan-fg/entropy-garden?style=flat-square\&color=black)
+![Issues](https://img.shields.io/github/issues/jhonatan-fg/entropy-garden?style=flat-square\&color=black)
 
 ---
 
